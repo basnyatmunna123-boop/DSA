@@ -1,4 +1,4 @@
 # C-C++_series
 <br>
-this is gor c and c++
+this is for c and c++
 
